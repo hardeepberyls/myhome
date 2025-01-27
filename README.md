@@ -1,2 +1,1 @@
-# myhome
-my home landing page
+# skill-game
